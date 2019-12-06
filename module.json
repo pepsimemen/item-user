@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "item-user",
+    "author": "Alteria",
+    "description": "Automatically buy/use items uwu",
+    "options": {
+        "niceName": "Item User"
+    },
+    "servers": ["https://raw.githubusercontent.com/AlteriaX/item-user/master/"],
+	"supportUrl": "https://github.com/AlteriaX/item-user/issues"
+}
