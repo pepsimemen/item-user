@@ -17,3 +17,7 @@ item buy <amount> - Amount of items you want to autobuy (Token shop must be open
 item stop - Stop the module
 
 ```
+
+
+
+𝓌𝑜𝓇𝓀𝓈  𝑜𝓃  𝒩𝒜  𝓃𝑜𝓌
