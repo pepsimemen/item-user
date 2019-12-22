@@ -27,6 +27,7 @@ module.exports = function ItemUser(mod) {
 				201034,
 				201035,
 				209901,
+				201043,
 				209902,
 				209903,
 				209904,
